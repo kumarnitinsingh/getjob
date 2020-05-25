@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/getjob/static/css/main.65f1fe29.chunk.css",
+    "main.js": "/getjob/static/js/main.8f00fec7.chunk.js",
+    "main.js.map": "/getjob/static/js/main.8f00fec7.chunk.js.map",
+    "runtime-main.js": "/getjob/static/js/runtime-main.e53f2cc1.js",
+    "runtime-main.js.map": "/getjob/static/js/runtime-main.e53f2cc1.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/getjob/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.586c3e03.chunk.js": "/getjob/static/js/2.586c3e03.chunk.js",
+    "static/js/2.586c3e03.chunk.js.map": "/getjob/static/js/2.586c3e03.chunk.js.map",
+    "index.html": "/getjob/index.html",
+    "precache-manifest.61e92daf8fc20673fc28502bd269a470.js": "/getjob/precache-manifest.61e92daf8fc20673fc28502bd269a470.js",
+    "service-worker.js": "/getjob/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/getjob/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.65f1fe29.chunk.css.map": "/getjob/static/css/main.65f1fe29.chunk.css.map",
+    "static/js/2.586c3e03.chunk.js.LICENSE.txt": "/getjob/static/js/2.586c3e03.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e53f2cc1.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.586c3e03.chunk.js",
+    "static/css/main.65f1fe29.chunk.css",
+    "static/js/main.8f00fec7.chunk.js"
+  ]
+}
